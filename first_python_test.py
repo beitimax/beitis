@@ -1,5 +1,5 @@
 def func(a,b):
-    assert a+b==6
+    assert a+b==5
     
 def fud():
     pass
