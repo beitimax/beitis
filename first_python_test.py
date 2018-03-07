@@ -1,2 +1,2 @@
 def test_func():
-    assert 3+4==6
+    assert 3+4==7
